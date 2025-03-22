@@ -1,0 +1,1 @@
+# write-a-C-program-to-find-out-the-sum-of-all-the-digit-of-a-number
